@@ -23,11 +23,12 @@ Enjoy!
 
 - `adorbs`: Misc cuteness that I couldn't classify in another way
 - `Alt-Everything`: Alt-Right, Alt-Medicine, Alt-reality b(u|a)bblers of all sorts
+- `Art`: GIFs as art, art as GIFs.
 - `angry-frustrated`: This will be broken down into nuanced sub-categories soon, since it's the directory with the most gifs right now
-- `Approved`: People, characters and animals concuring, confirming, and giving thumbs-up.
 - `badass-nailed-it`: People not failing at awesome shit.
 - `Battle-Stations`: Fight's about to erupt, Fighting words.
 - `Biology`: Anything tied to anatomy, bodily functions, sexual inuendos and related odors.
+- `Biology/Puking-Disgusted`: Expelatory humor, Rainbows included.
 - `bored-tired-depressed`: These are grouped together because they can often be used interchangeably.
 - `busted`: People and Animals not getting away with it.
 - `bye`: Leaving the place/situation.
@@ -74,7 +75,6 @@ Enjoy!
 - `overkill`: You're over-doing it wrong.
 - `over-reacting`: Please fine-tune your response.
 - `panic`: This is no time to stay calm.
-- `Puking-Disgusted`: Maybe needs to go under "Biology".
 - `Put-In-Place`: For people and beings not knowing their place.
 - `regret`: I wish I had a time machine.
 - `Relax`: Not really. World's ending.
@@ -98,6 +98,7 @@ Enjoy!
 - `welcome-friendly`: Another welcoming collection of friendly GIFs.
 - `wtf`: Whisky Tango Foxtrot. You won't believe your eyes/ears/sensors.
 - `yes`: Affirmitive.
+- `yes/Approved`: People, characters and animals concuring, confirming, and giving thumbs-up.
 - `youre-stupid`: Establishing the intelectual hierarchy.
 
 -----
