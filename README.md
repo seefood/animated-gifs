@@ -1,19 +1,26 @@
 # animated-gifs
-Huge collection of the animated gifs I use on http://tumblr.snipe.net and in my other Github issues/pull requests to make contributing more fun.
+Based on the huge collection (~2700) of the animated gifs Snipe uses on 
+http://tumblr.snipe.net plus additions (~1300) by SeeFood.
 
-Yes, I know a few of them are not actually gifs. Quiet, you.
+Some are JPGs, but we can live with that, right?
 
-**Note: This repo is big. It has ~2.7k animated gifs, and they're all awesome, but it's big and it will take some time to download/clone.**
+**Note: This repo is big. It has ~4k animated gifs, and they're all awesome,
+but it's big and it will take some time to download/clone.**
 
-I'll be working on categorizing the ones that are not currently categorized over time, and renaming them all to something that actually means something. I need to do this for my own sanity (and so I can find the right gif when I need it), but it will take a little time to get everything categorized and appropriately named.
+I try to rename them to meaningful names and cull dupes, but you are welcome to
+help.  I need to do this for my own sanity (and so I can find the right gif
+when I need it), but it will take a little time to get everything categorized
+and appropriately named.
 
-The copyrights to the actual images belong to their respective intellectual property copyright holders, blah blah blah. I have collected these over a period of years, so I couldn't tell you where I found most of them, and I'm reasonably certain the folks I nicked them from couldn't tell you where they originally found them either. Internet, amirite?
+You're welcome to add to this repo (Seefood) or Snipe's, but understand that
+We're each picky with our different forks. If we don't accept your pull request
+because your gif isn't punchy enough, don't be sad. This isn't a collection of
+all gifs - this is a collection of gifs that I found to be particularly
+funny/biting/weird/useful.  It's nothing personal.
 
-If you dig it and want to buy me a beer or a cup of coffee, you can do so with [Changetip](https://www.changetip.com/tipme/snipe). You don't have to, but it's always appreciated.
-
-You're welcome to add to this repo, but understand that I'm very picky. If I don't accept your pull request because your gif isn't punchy enough, don't be sad. This isn't a collection of all gifs - this is a collection of gifs that I found to be particularly funny/biting/weird/useful. It's nothing personal.
-
-There is no porn in this repo, although there may be hilarious depictions of sex toys or other things I find funny. Please don't submit a PR with porn. The internet has enough of that on its own, it doesn't need my help. 
+There is no porn in this repo, although there may be hilarious depictions of
+sex toys or other things I find funny. Please don't submit a PR with porn. The
+internet has enough of that on its own, it doesn't need my help. 
 
 Enjoy!
 
@@ -21,7 +28,7 @@ Enjoy!
 
 ### About the Classifications
 
-- `adorbs`: Misc cuteness that I couldn't classify in another way
+- `adorbs`: Misc cuteness that wouldn't classify in another way
 - `Alt-Everything`: Alt-Right, Alt-Medicine, Alt-reality b(u|a)bblers of all sorts
 - `Art`: GIFs as art, art as GIFs.
 - `angry-frustrated`: This will be broken down into nuanced sub-categories soon, since it's the directory with the most gifs right now
@@ -57,7 +64,8 @@ Enjoy!
 - `hacking-internet-computers`: Hackity Hack!
 - `hiding`: There's nobody here.
 - `i-want-it`: Take My Money NOW.
-- `karma`: It come around.
+- `Israelis`: Some made by SeeFood, some by @ShkooMe or @fastish
+- `karma`: It comes around.
 - `LGBT`: Actually LGBTQAI+ if you have to ask.
 - `lol`: Laughing Out Loud. Ha. Ha.
 - `mind-blown`: Get inspired.
@@ -70,7 +78,7 @@ Enjoy!
 - `not-actually-helping`: Actually adding harm.
 - `no-thank-you`: I politely refuse.
 - `NumberOne`: ME ME ME!
-- `Oh Crap`: I forgot the cake in the oven!
+- `Oh-Crap`: I forgot the cake in the oven!
 - `oh-hai-friend`: A welcoming collection of friendly GIFs.
 - `overkill`: You're over-doing it wrong.
 - `over-reacting`: Please fine-tune your response.
@@ -86,7 +94,7 @@ Enjoy!
 - `smug`: Muahahah!
 - `SocNets`: Social Network interactions and jokes.
 - `sorry`: Very Sorry.
-- `Space Shit`: All sorts of stuff from space shows and stuff.
+- `Space-Shit`: All sorts of stuff from space shows and stuff.
 - `stress`: This is not healthy for you.
 - `Surprise`: Not what you expected. No, actually exactly what you expect from the title.
 - `Techy`: Us techy folk and our inner-circle humor.
@@ -103,8 +111,39 @@ Enjoy!
 
 -----
 
-### About Me
+### Copyrights
 
-Hi, I'm snipe. I write free, open source software for a living for my company, Grokability, Inc. I wrote [Snipe-IT](https://snipeitapp.com) (a FOSS IT asset management system), I'm the CTO and co-founder of [Mass Mosaic](https://massmosaic.com), and I created the [Downworthy browser plugin](http://downworthy.snipe.net). I also made [Nofuckstogive.today](http://nofuckstogive.today), which you might enjoy.
+The copyrights to the actual images belong to their respective intellectual
+property copyright holders, blah blah blah. Snipe (and I) have collected these
+over a period of years, so We couldn't tell you where we found most of them,
+and We're reasonably certain the folks we nicked them from couldn't tell you
+where they originally found them either. Internet, amirite?
+
+The few we can trace back come from:
+- Aaron Reynolds' [@swear_trek](https://twitter.com/swear_trek), [@swear_who](https://twitter.com/swear_who) and [@GIFpocalypse](https://twitter.com/GIFpocalypse).
+- Israeli memes and GIFs from [@fastish](https://twitter.com/fastish) and [@shkooME](https://twitter.com/shkooME).
+- A few originals by me, [@ia42](https://twitter.com/ia42).
+- Many from [@rabihalameddine](https://twitter.com/rabihalameddine)'s copious collection of cute and weird.
+- [Slim Jim Studios](http://www.slimjimstudios.com/).
+- Let me know if you identify others that I'm not aware of.
+
+### Original creator of the collection:
+
+Hi, I'm snipe. I write free, open source software for a living for my company,
+Grokability, Inc. I wrote [Snipe-IT](https://snipeitapp.com) (a FOSS IT asset
+management system), I'm the CTO and co-founder of [Mass Mosaic](https://massmosaic.com),
+and I created the [Downworthy browser plugin](http://downworthy.snipe.net). I also made 
+[Nofuckstogive.today](http://nofuckstogive.today), which you might enjoy.
 
 You can find me on the Twitters [@snipeyhead](https://twitter.com/snipeyhead).
+
+### Additionals:
+
+I'm ira, [@ia42](https://twitter.com/ia42) and
+[@ia42_cyber](https://twitter.com/ia42_cyber) on Twitter. I'm into
+Digital/Online rights, FOSS, Open Information and the social equality+freedoms
+movements with which they share a lot. I make money from Systems Automation and
+programmig (sometimes called DevOps), and I often talk about science
+skepticism, Digital Rights, the maker movement and other topics at SciFi Cons,
+where I work very hard not to include too many GIFs in my slides. It's a daily
+battle.
