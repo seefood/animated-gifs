@@ -1,10 +1,13 @@
 # animated-gifs
 Based on the huge collection (~2700) of the animated gifs Snipe uses on 
-http://tumblr.snipe.net plus additions (~1300) by SeeFood.
+http://tumblr.snipe.net plus additions (~1500) by SeeFood.
 
 Some are JPGs, but we can live with that, right?
 
-**Note: This repo is big. It has ~4k animated gifs, and they're all awesome,
+Update for 2018: As more sites start supporting WebM, I kept/converted larger
+GIF files to mp4 and WebM. Twitter and others block files over 5MB anyway.
+
+**Note: This repo is big. It has ~4.2k animated gifs, and they're all awesome,
 but it's big and it will take some time to download/clone.**
 
 I try to rename them to meaningful names and cull dupes, but you are welcome to
@@ -107,6 +110,7 @@ Enjoy!
 - `wtf`: Whisky Tango Foxtrot. You won't believe your eyes/ears/sensors.
 - `yes`: Affirmitive.
 - `yes/Approved`: People, characters and animals concuring, confirming, and giving thumbs-up.
+- `yes/hi5-fistbumps`: High-fives and fist bumps. Category grew big enough to win its own subdir.
 - `youre-stupid`: Establishing the intelectual hierarchy.
 
 -----
@@ -115,12 +119,12 @@ Enjoy!
 
 The copyrights to the actual images belong to their respective intellectual
 property copyright holders, blah blah blah. Snipe (and I) have collected these
-over a period of years, so We couldn't tell you where we found most of them,
-and We're reasonably certain the folks we nicked them from couldn't tell you
+over a period of years, so we couldn't tell you where we found most of them,
+and we're reasonably certain the folks we nicked them from couldn't tell you
 where they originally found them either. Internet, amirite?
 
 The few we can trace back come from:
-- Aaron Reynolds' [@swear_trek](https://twitter.com/swear_trek), [@swear_who](https://twitter.com/swear_who) and [@GIFpocalypse](https://twitter.com/GIFpocalypse).
+- Aaron Reynolds' [@swear_trek](https://twitter.com/swear_trek), [@swear_who](https://twitter.com/swear_who) and [@GIFpocalypse](https://twitter.com/GIFpocalypse). Some of the credits also go to [@krissy_myers](https://twitter.com/krissy_myers), [@charliejane](https://twitter.com/charliejane) and others.
 - Israeli memes and GIFs from [@fastish](https://twitter.com/fastish) and [@shkooME](https://twitter.com/shkooME).
 - A few originals by me, [@ia42](https://twitter.com/ia42).
 - Many from [@rabihalameddine](https://twitter.com/rabihalameddine)'s copious collection of cute and weird.
@@ -139,7 +143,7 @@ You can find me on the Twitters [@snipeyhead](https://twitter.com/snipeyhead).
 
 ### Additionals:
 
-I'm ira, [@ia42](https://twitter.com/ia42) and
+I'm Ira, [@ia42](https://twitter.com/ia42) and
 [@ia42_cyber](https://twitter.com/ia42_cyber) on Twitter. I'm into
 Digital/Online rights, FOSS, Open Information and the social equality+freedoms
 movements with which they share a lot. I make money from Systems Automation and
