@@ -10,6 +10,9 @@ GIF files to mp4 and WebM. Twitter and others block files over 5MB anyway.
 **Note: This repo is big. It has ~4.2k animated gifs, and they're all awesome,
 but it's big and it will take some time to download/clone.**
 
+**If you want to get just the images without past junk (save 14G of disk space),
+I suggest you get the zip with files only, or git clone with --depth 1. You'll thanks me.**
+
 I try to rename them to meaningful names and cull dupes, but you are welcome to
 help.  I need to do this for my own sanity (and so I can find the right gif
 when I need it), but it will take a little time to get everything categorized
