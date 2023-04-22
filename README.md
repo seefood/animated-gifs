@@ -7,6 +7,8 @@ Some are JPGs, but we can live with that, right?
 Update for 2018: As more sites start supporting WebM, I kept/converted larger
 GIF files to mp4 and WebM. Twitter and others block files over 5MB anyway.
 
+Update for 2023: WebM is still not replacing GIFs. This is stupid but here we are.
+
 **Note: This repo is big. It has ~4.2k animated gifs, and they're all awesome,
 but it's big and it will take some time to download/clone.**
 
@@ -18,7 +20,7 @@ help.  I need to do this for my own sanity (and so I can find the right gif
 when I need it), but it will take a little time to get everything categorized
 and appropriately named.
 
-You're welcome to add to this repo (Seefood) or Snipe's, but understand that
+You're welcome to add to this repo (Seefood) or Snipe's, but understand that/
 We're each picky with our different forks. If we don't accept your pull request
 because your gif isn't punchy enough, don't be sad. This isn't a collection of
 all gifs - this is a collection of gifs that I found to be particularly
@@ -121,7 +123,7 @@ Enjoy!
 ### Copyrights
 
 The copyrights to the actual images belong to their respective intellectual
-property copyright holders, blah blah blah. Snipe (and I) have collected these
+property copyright holders, blah blah blah. Snipe (and Seefood) have collected these
 over a period of years, so we couldn't tell you where we found most of them,
 and we're reasonably certain the folks we nicked them from couldn't tell you
 where they originally found them either. Internet, amirite?
@@ -129,7 +131,7 @@ where they originally found them either. Internet, amirite?
 The few we can trace back come from:
 - Aaron Reynolds' [@swear_trek](https://twitter.com/swear_trek), [@swear_who](https://twitter.com/swear_who) and [@GIFpocalypse](https://twitter.com/GIFpocalypse). Some of the credits also go to [@krissy_myers](https://twitter.com/krissy_myers), [@charliejane](https://twitter.com/charliejane) and others.
 - Israeli memes and GIFs from [@fastish](https://twitter.com/fastish) and [@shkooME](https://twitter.com/shkooME).
-- A few originals by me, [@ia42](https://twitter.com/ia42).
+- A few originals by me, [Ira](https://tooot.im/@I).
 - Many from [@rabihalameddine](https://twitter.com/rabihalameddine)'s copious collection of cute and weird.
 - [Slim Jim Studios](http://www.slimjimstudios.com/).
 - Let me know if you identify others that I'm not aware of.
@@ -146,11 +148,10 @@ You can find me on the Twitters [@snipeyhead](https://twitter.com/snipeyhead).
 
 ### Additionals:
 
-I'm Ira, [@ia42](https://twitter.com/ia42) and
-[@ia42_cyber](https://twitter.com/ia42_cyber) on Twitter. I'm into
+I'm Ira, [@i@tooot.im](https://tooot.im/@I) on the fediverse. I'm into
 Digital/Online rights, FOSS, Open Information and the social equality+freedoms
 movements with which they share a lot. I make money from Systems Automation and
-programmig (sometimes called DevOps), and I often talk about science
+programming (sometimes called DevOps), and I often talk about science
 skepticism, Digital Rights, the maker movement and other topics at SciFi Cons,
 where I work very hard not to include too many GIFs in my slides. It's a daily
 battle.
